@@ -1,0 +1,44 @@
+{
+  "name": "generator-addon",
+  "version": "0.0.0",
+  "description": "generate mAuthor addon",
+  "keywords": [
+    "yeoman-generator",
+    "generator",
+    "netdragon",
+    "project",
+    "mAuthor",
+    "addon",
+    "front-end",
+    "module"
+  ],
+  "author": {
+    "name": "林宁",
+    "email": "565153851@qq.com"
+  },
+  "main": "generators/app/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "async": "^0.9.0",
+    "shelljs": "^0.3.0",
+    "update-notifier": "^0.2.2",
+    "yeoman-generator": "^0.17.0",
+    "yosay": "^0.3.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}

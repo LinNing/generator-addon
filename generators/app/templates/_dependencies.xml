@@ -1,0 +1,9 @@
+<androidDependency>
+<![CDATA[test]]>
+</androidDependency>
+<iosDependency>
+<![CDATA[test]]>
+</iosDependency>
+<jsDependency>
+<javaScript name="jquery" version="1.7.0"/>
+</jsDependency>
