@@ -1,6 +1,6 @@
 {
   "name": "generator-addon",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "generate mAuthor addon",
   "keywords": [
     "yeoman-generator",
