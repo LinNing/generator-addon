@@ -18,6 +18,7 @@ describe('mAuthor:addon', function () {
 
     it('creates files', function () {
       assert.file([
+        'resources',
         'css.scss',
         'dependencies.xml',
         'model.json',

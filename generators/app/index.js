@@ -43,6 +43,7 @@ module.exports = yeoman.generators.Base.extend({
   writing: {
 
     addon: function() {
+      this.directory('resources', 'resources');
 
       this.template('_presenter.js', 'presenter.js');
 
